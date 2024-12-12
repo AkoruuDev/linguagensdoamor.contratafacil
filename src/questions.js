@@ -304,7 +304,7 @@ const Questions = [
         },
         second: {
             id: "s28",
-            ask: "Sinto-me bem quando sou abraço(a) e/ou beijado(a) por amigos(as)",
+            ask: "Sinto-me bem quando sou abraçado(a) e/ou beijado(a) por amigos(as)",
             ans: "toque fisico"
         }
     },{
